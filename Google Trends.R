@@ -1,7 +1,7 @@
 # --------------------------------------------
 # 📦 Install and Load Required Libraries
 # --------------------------------------------
-if (!require(gtrendsR)) install.packages("gtrendsR")
+if (!require(gtrendsR)) install.packages("gtrendsR")#Comments from Djima
 if (!require(tidyverse)) install.packages("tidyverse")
 
 library(gtrendsR)
