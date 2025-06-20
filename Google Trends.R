@@ -2,7 +2,7 @@
 # 📦 Install and Load Required Libraries
 # --------------------------------------------
 if (!require(gtrendsR)) install.packages("gtrendsR")#Comments from Djima
-if (!require(tidyverse)) install.packages("tidyverse")
+if (!require(tidyverse)) install.packages("tidyverse")#Comments from Macrina
 
 library(gtrendsR)
 library(tidyverse)
